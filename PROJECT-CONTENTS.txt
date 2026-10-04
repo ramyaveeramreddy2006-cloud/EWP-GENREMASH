@@ -1,0 +1,9 @@
+GenreMash Cinema Prime
+index.html - single-page application shell
+styles.css - responsive cinematic UI styling
+app.js - catalogue, search, watchlist, studio and demo ticket booking interactions
+server.js - Node built-in static development server
+package.json - npm start command
+assets/hero.jpg - hero art cropped from user-provided reference
+assets/posters/*.jpg - poster thumbnails cropped from user-provided reference
+README.md - setup and limitations

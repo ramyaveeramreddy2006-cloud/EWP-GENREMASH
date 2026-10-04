@@ -1,0 +1,7 @@
+{
+  "name": "genremash-cinema-prime",
+  "version": "2.0.0",
+  "private": true,
+  "description": "GenreMash Cinema streaming discovery and movie ticket booking frontend prototype",
+  "scripts": { "start": "node server.js" }
+}
